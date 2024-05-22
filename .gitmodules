@@ -1,0 +1,3 @@
+[submodule "suv_dpu_lark"]
+	path = suv_dpu_lark
+	url = git@github.com:wkozlowski750/suv_dpu_lark.git
