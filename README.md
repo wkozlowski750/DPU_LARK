@@ -11,7 +11,7 @@ v1.1.1 as well as DPDK (data-plane development kit), and uses the meson/ninja bu
 This has the code for the hash benches and ra verifier for a CPU without SHA hardware acceleration. This requires openssl v3.0 and DPDK.
 
 ### DPU
-This is the source code which was deployed on the Bluefield-2 DPU. This requires the latest version of DOCA to be installed on the DPU. Follow build instructions found in the
+This is the source code which was deployed on the Bluefield-2 DPU. This requires DOCA 2.6 to be installed on the DPU. Follow build instructions found in the
 DOCA SDK manual to build and deploy applications on the DPU.
 
 The current password for the DPU's on both systems: bluefield2!
